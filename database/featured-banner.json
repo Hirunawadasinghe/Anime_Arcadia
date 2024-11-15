@@ -1,0 +1,37 @@
+[
+    {
+        "movie_id": "0000000045",
+        "thumbnail_image": "https://i.postimg.cc/nV0Ys90g/maxresdefault.jpg",
+        "title": "Jujutsu Kaisen"
+    },
+    {
+        "movie_id": "0000000118",
+        "thumbnail_image": "https://i.postimg.cc/2yxCL67Q/Anime-Blue-Lock-Season2-Key-Art-1024x576.jpg",
+        "title": "Blue Lock 2nd Season"
+    },
+    {
+        "movie_id": "0000000101",
+        "thumbnail_image": "https://i.postimg.cc/jqHBz2Gf/dandadan-poster.webp",
+        "title": "Dandadan"
+    },
+    {
+        "movie_id": "0000000202",
+        "thumbnail_image": "https://i.postimg.cc/G36pYwQs/crunchyroll-acquires-haikyu-blue-lock-and-overlord-films-rev-e5m8-1280.webp",
+        "title": "Haikyu!! Movie: The Dumpster Battle"
+    },
+    {
+        "movie_id": "0000000143",
+        "thumbnail_image": "https://i.postimg.cc/rmGsXWpT/blue-box.jpg",
+        "title": "Blue Box"
+    },
+    {
+        "movie_id": "0000000025",
+        "thumbnail_image": "https://i.postimg.cc/Z53dLWxT/5b262629a153363a7f0e150a6ca9dffb.png",
+        "title": "Attack on Titan"
+    },
+    {
+        "movie_id": "0000000008",
+        "thumbnail_image": "https://i.postimg.cc/hjm6Db9k/dslayerhero.jpg",
+        "title": "Demon Slayer: Kimetsu no Yaiba"
+    }
+]
